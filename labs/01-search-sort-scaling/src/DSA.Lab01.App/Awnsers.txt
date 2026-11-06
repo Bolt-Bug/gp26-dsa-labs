@@ -1,0 +1,14 @@
+Task 1:
+
+    1. i is the current index being searched.
+    2. when it finds the target.
+    3. it didnt find the target.
+    4. the target is at the start.
+    5. the target is at the end.
+    6. it has look through all the values. 
+    
+Task 2:
+    Checkpoint:
+        it requires ordered data because it looks at the
+        middle and then discards one half. if it was
+        unordered, it could discard the half with the target number
